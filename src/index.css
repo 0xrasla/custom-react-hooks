@@ -1,13 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Source+Serif+Pro&display=swap');
 body {
+  width: 100vw;
+  height: 100vh;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  overflow-x: hidden;
+  font-size: 1.2rem;
+  background-color: lightblue;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1, h4{
+  font-family: 'Fjalla One', sans-serif !important;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif !important;
+
+}
+
+p {
+  font-family: 'consolas';
+    font-family: 'Source Serif Pro', serif;
+}
+
+.hooks {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.hook {
+  /* add neumorpic shadow */
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 20px #2020221a, -10px -10px 20px #2020221c;
 }
