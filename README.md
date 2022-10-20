@@ -38,7 +38,7 @@
 - Run `npm install` to install the dependencies
 - Run `npm start` to start the project
 
-## Thanks for visiting this repo. If you like this repo, please give it a star.
+## Thanks for visiting this repo. If you like this repo, please give it a star. Checkout my youtube Channel for more content. [CodingWithRasla](https://www.youtube.com/channel/UCXFJeeYdEikfwazkrTurmgg)
 
 ## License
 
