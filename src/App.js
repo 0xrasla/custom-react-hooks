@@ -1,5 +1,4 @@
 function App() {
-  // make a array of common custom hooks name
   let hooks = [
     {
       name: "useFetch",
